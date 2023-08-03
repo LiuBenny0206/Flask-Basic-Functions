@@ -14,7 +14,4 @@ Tech Stack:
 - Flask-Migrate: A Flask extension for database migrations.
 - SQLite: A lightweight relational database used for storing user data.
 
-Usage:
-1. Install required Python packages: Flask, SQLAlchemy, Flask-Migrate.
-2. Run the application: Execute app.py, and the application will run at http://127.0.0.1:5000/.
 
